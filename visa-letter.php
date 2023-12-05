@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Visa Letter
-Plugin URI: https://github.com/vachan/visa-letter/
+Plugin URI: https://github.com/vachan/visa-letter
 Description: This plugin adds a settings page to the admin menu and creates a shortcode for visa letter.
 Version: 1.0.0
 Author: Vachan Kudmule
